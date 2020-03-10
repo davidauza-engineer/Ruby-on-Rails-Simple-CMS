@@ -9,6 +9,8 @@ Rails.application.routes.draw do
 
   get 'demo/index'
   get 'demo/hello'
+  get 'demo/other_hello'
+  get 'demo/lynda'
 
   # default route
   # may go away in future versions of Rails
